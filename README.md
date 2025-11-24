@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there👋
 
+My name is Fábio, I'm finishing my masters in Data Science at NOVA IMS! 
+
+- 🚀 I’m currently working on my Masters thesis where I analyze Moral Foundations in European parliamentary discourse, comparing them with the Portuguese political context.
+- 🎨 When I’m not working on my thesis, you can find me doing CrossFit🏋️‍♂️, running🏃‍♂️, playing football⚽, watching Formula 1🏎️, or spending time with my friends and family👫.
+- 📫 How to reach me: [Linkedin](www.linkedin.com/in/fábio-dos-santos)
 <!--
 **fabiofficial/fabiofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
